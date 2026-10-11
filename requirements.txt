@@ -1,0 +1,3 @@
+aiohttp>=3.9
+pandas>=2.0  # only for --out *.parquet (plus pyarrow)
+pytest>=8  # tests
